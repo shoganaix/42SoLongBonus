@@ -1,4 +1,4 @@
-# 42SoLongB(ValidMap+Bonus)
+# 42SoLong(ValidMap+Bonus)
 
 _"And thanks for all the fish!"_
  
